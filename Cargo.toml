@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+push = { git = "https://github.com/unhindered-ec/unhindered-ec.git", version = "0.1.0" }
